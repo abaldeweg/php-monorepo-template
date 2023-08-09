@@ -1,0 +1,29 @@
+{
+    "name": "baldeweg/example",
+    "description": "Example",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Baldeweg\\Example\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "André Baldeweg",
+            "email": "a@baldeweg.org"
+        }
+    ],
+    "config": {
+        "sort-packages": true
+    },
+    "require": {
+        "php": ">=8.2"
+    },
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^3.22",
+        "phpunit/phpunit": "^10.3",
+        "symfony/var-dumper": "^6.3",
+        "vimeo/psalm": "^5.14"
+    }
+}
