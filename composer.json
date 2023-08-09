@@ -1,0 +1,13 @@
+{
+    "name": "baldeweg/php-monorepo-template",
+    "description": "Template for php using a monorepo.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "André Baldeweg",
+            "email": "a@baldeweg.org"
+        }
+    ],
+    "require": {}
+}
