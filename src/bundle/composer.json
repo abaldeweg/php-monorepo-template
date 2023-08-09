@@ -1,0 +1,18 @@
+{
+    "name": "baldeweg/bundle",
+    "description": "Example Bundle",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Baldeweg\\Bundle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "André Baldeweg",
+            "email": "a@baldeweg.org"
+        }
+    ],
+    "require": {}
+}
