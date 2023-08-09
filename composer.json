@@ -9,5 +9,7 @@
             "email": "a@baldeweg.org"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.2"
+    }
 }
