@@ -22,10 +22,10 @@
   "require-dev": {
     "friendsofphp/php-cs-fixer": "^3.22",
     "phpunit/phpunit": "^10.3",
-    "symfony/var-dumper": "^6.3",
+    "symfony/var-dumper": "^7.0",
     "vimeo/psalm": "^5.14"
   },
   "require": {
-    "symfony/http-kernel": "^6.3"
+    "symfony/http-kernel": "^7.0"
   }
 }
